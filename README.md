@@ -5,7 +5,7 @@
 <h1 align="center">Vyrnthos-Pack</h1>
 
 <p align="center">
-  <strong>Версия Minecraft:</strong> 26.2 | <strong>Тип:</strong> Графический улучшайзер | <strong>Никаких новых модов</strong>
+  <strong>Версия Minecraft:</strong> 26.2 Fabric | <strong>Тип:</strong> Графический улучшайзер | <strong>Никаких новых модов</strong>
 </p>
 
 ---

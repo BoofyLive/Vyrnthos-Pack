@@ -1,0 +1,48 @@
+{
+  "ragdollDespawnAge": 1500.0,
+  "ragdollDespawnRange": 150,
+  "ragdollDisplayRange": 100,
+  "specialAbilities": true,
+  "pvpServerSupport": false,
+  "pvpServerSupportAdvanced": {
+    "vanishConfirmTicks": 2
+  },
+  "physics": {
+    "gravity": -185.0,
+    "airDrag": 1.0,
+    "groundFriction": 450.0,
+    "bounciness": 40.0,
+    "mass": 100.0
+  },
+  "mobWhitelist": {
+    "player": true,
+    "zombie": true,
+    "drowned": true,
+    "husk": true,
+    "skeleton": true,
+    "stray": true,
+    "witherSkeleton": true,
+    "villager": true,
+    "wanderingTrader": true,
+    "zombieVillager": true,
+    "pillager": true,
+    "evoker": true,
+    "vindicator": true,
+    "witch": true,
+    "cow": true,
+    "sheep": true,
+    "pig": true,
+    "mooshroom": true,
+    "goat": true,
+    "hoglin": true,
+    "zoglin": true,
+    "piglin": true,
+    "piglinBrute": true,
+    "zombifiedPiglin": true,
+    "enderman": true,
+    "vex": true
+  },
+  "ragdollImpactSounds": false,
+  "ragdollDeathSounds": false,
+  "ragdollSoundPreset": "BODY"
+}

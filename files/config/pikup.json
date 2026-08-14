@@ -1,0 +1,69 @@
+{
+  "general": {
+    "enabled": true,
+    "showPickups": true,
+    "showDrops": false,
+    "showExperience": false,
+    "displayTimeTenths": 50,
+    "fadeTimeTenths": 8,
+    "maxEntries": 8,
+    "mergeSameItem": true,
+    "mergeWindowTenths": 50,
+    "hideWhenChatOpen": false,
+    "hideWhenDebugOpen": true
+  },
+  "position": {
+    "corner": "TOP_RIGHT",
+    "offsetX": 4,
+    "offsetY": 4,
+    "scalePercent": 100,
+    "lineSpacing": 2,
+    "newestFirst": true
+  },
+  "appearance": {
+    "useRarityColor": true,
+    "customTextColor": 16777215,
+    "textShadow": true,
+    "showItemIcon": true,
+    "showCount": true,
+    "nameStyle": "COUNT_BEFORE",
+    "countUsesRarityColor": false,
+    "countColor": 11184810,
+    "showBackground": false,
+    "backgroundColor": -2147483648,
+    "backgroundPadding": 2,
+    "slideAnimation": true
+  },
+  "font": {
+    "useCustomFont": false,
+    "fontFile": "",
+    "size": 11,
+    "oversample": 2,
+    "shiftX": 0,
+    "shiftY": 0,
+    "fallbackForMissingGlyphs": true
+  },
+  "marker": {
+    "enabled": true,
+    "durationSeconds": 30,
+    "style": "STAR",
+    "corner": "TOP_RIGHT",
+    "scalePercent": 100,
+    "useRarityColor": false,
+    "color": 16767051,
+    "outline": true,
+    "pulse": true,
+    "fadeOut": true,
+    "showInHotbar": true,
+    "showInInventory": true,
+    "clearOnHover": true,
+    "clearOnUse": true,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "filters": {
+    "listIsWhitelist": false,
+    "itemList": [],
+    "minimumCount": 1
+  }
+}

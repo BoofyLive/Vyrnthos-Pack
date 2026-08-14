@@ -1,0 +1,44 @@
+{
+  "hideNonGroupNicks": false,
+  "prioritizeServerPlayersInTab": true,
+  "onlyGroupsInLocator": false,
+  "hideNonGroupInTab": false,
+  "keepTeamPrefixes": true,
+  "groups": [
+    {
+      "name": "VIP",
+      "players": [
+        "BoofyGames",
+        "Nice_Games2007"
+      ],
+      "style": {
+        "enabled": true,
+        "mode": "GRADIENT",
+        "color1": 37119,
+        "color2": 8651007,
+        "speed": 0.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "customName": ""
+      }
+    },
+    {
+      "name": "Vilka",
+      "players": [
+        "Vilka4ka"
+      ],
+      "style": {
+        "enabled": true,
+        "mode": "GRADIENT",
+        "color1": 16712192,
+        "color2": 16759040,
+        "speed": 0.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "customName": ""
+      }
+    }
+  ]
+}

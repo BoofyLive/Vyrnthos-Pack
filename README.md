@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Vyrnthos-Pack" width="850">
+  <img src="ArtBoofy.jpg" alt="Vyrnthos-Pack" width="850">
 </p>
 
 <h1 align="center">Vyrnthos-Pack</h1>

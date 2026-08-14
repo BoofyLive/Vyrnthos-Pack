@@ -1,7 +1,7 @@
-<!--
-  ВСТАВЬ СВОЮ КАРТИНКУ:
-  Сделай красивый скриншот с шейдерами и вставь ссылку ниже
--->
+<p align="center">
+  <img src="logo.png" alt="Vyrnthos-Pack" width="850">
+</p>
+
 <h1 align="center">Vyrnthos-Pack</h1>
 
 <p align="center">

@@ -7,10 +7,10 @@
   <img src="https://your-image-link.com/preview.png" alt="Графика в Minecraft" width="850">
 </p>
 
-<h1 align="center">Название твоего модпака</h1>
+<h1 align="center">Vyrnthos-Pack</h1>
 
 <p align="center">
-  <strong>Версия Minecraft:</strong> 1.20.1 | <strong>Тип:</strong> Графический улучшайзер | <strong>Никаких новых модов</strong>
+  <strong>Версия Minecraft:</strong> 26.2 | <strong>Тип:</strong> Графический улучшайзер | <strong>Никаких новых модов</strong>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 1. Скачай архив с модпаком.
 2. Импортируй его в **CurseForge**, **Prism Launcher** или любой другой лаунчер.
-3. В настройках видео выдели **шейдерпак** (например, *Complementary Shaders*).
+3. В настройках видео выдели **шейдерпак** (например, *Mellow-Shader*).
 4. Наслаждайся игрой в новом свете! ✨
 
 > ⚠️ Для комфортной игры рекомендуется **выделить 6–8 ГБ ОЗУ** и иметь видеокарту от GTX 1060 / RTX 2060 и выше.
